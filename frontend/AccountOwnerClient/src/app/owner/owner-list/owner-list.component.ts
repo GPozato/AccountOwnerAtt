@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { Owner } from './../../_interfaces/owner.model';
+import { Owner } from 'src/app/_interfaces/owner.model';
+
 import { OwnerRepositoryService } from './../../shared/services/owner-repository.service';
 @Component({
   selector: 'app-owner-list',

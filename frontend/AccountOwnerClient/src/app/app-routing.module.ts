@@ -5,6 +5,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { NotFoundComponent } from './error-pages/not-found/not-found.component';
 import { InternalServerComponent } from './error-pages/internal-server/internal-server.component';
 
+
 const routes: Routes = [
   { path: 'home', component: HomeComponent },
   { path: 'home', component: HomeComponent },

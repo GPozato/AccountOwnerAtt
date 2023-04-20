@@ -23,3 +23,4 @@ import { AppendDirective } from './directives/append.directive';
   ]
 })
 export class SharedModule { }
+
